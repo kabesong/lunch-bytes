@@ -9,19 +9,14 @@ MSC 343, every Friday, 12 pm.
 
 ## Schedule
 
-* **August 24**: *Ray Bell (@raybellwaves, RSMAS/UM) -- [Intro to Python](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB14)*
-* **August 31**: *Suvarchal Kumar (@suvarchal, RSMAS/UM) -- [Hosting and managing your geophysical datasets](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB15)*
-* **September 7**: *Brian McNoldy (RSMAS/UM) -- [Sharing Science with Scientists and the Public](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB16)*
-* **September 14**: *Natalie Perlin (RSMAS/UM) -- [Introduction to the UM/Center for Computational Science resources and Pegasus supercomputer](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB17)*
-* **September 21**: *Tim Norris (@tibbben, UM Libraries/CCS) -- [Intro to parallel computing with Python: Dask and Concurrent Futures](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB18)*
-* **September 28**: *Johnna Infanti (RSMAS/UM & UCAR) -- [Introduction to NCAR Command Language (NCL) for Climate Data Analysis](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB19)*
-* **October 5**: *Heather Hunter (RSMAS/UM) -- [Applying Machine Learning to Satellite Remote Sensing Data](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB20)*
-* **October 12**: *Philippe Miron (@tuxication, RSMAS/UM) -- [Making beautiful plots with Python's matplotlib](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB21)*
-* **October 26**: *Matt Grossi (RSMAS/UM) -- [Peeking under the hood of an artificial neural network](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB22)*
-* **November 9**: *Brian Mapes (RSMAS/UM) -- [Load, don’t code: Online analysis using NASA Giovanni, Climate Explorer, and more](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB23)*
-* **November 16**: TBD
-* **November 30**: TBD
-* **December 7**: *Patrick Rynne (Waterlust) -- Title TBD*
+* **February 22**: Milan Curcic (RSMAS/UM) -- Introduction to cloud computing
+* **March 8**: TBD
+* **March 15**: Tiago Bilo (RSMAS/UM) -- Parallel computing with Python and MPI
+* **March 22**: Yu Gao (RSMAS/UM) -- TBD
+* **March 29**: Joseph Anderson (RSMAS/UM) -- Tutorial on Tensorflow and neural nets for Earth sciences
+* **April 5**: Sara Mirzaee (RSMAS/UM) -- Python + Dask TBD
+* **April 19**: TBD
+* **April 26**: TBD
 
 ## Presenter Guidelines
 
@@ -39,5 +34,6 @@ Please create a folder for your seminar as LBXX and upload any contents (e.g. sl
 
 ## Past seminars
 
-* [Fall 2015](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015)
-* [Spring 2016](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2016)
+* [Fall 2015](Fall_2015)
+* [Spring 2016](Spring_2016)
+* [Fall 2018](Fall_2018)
